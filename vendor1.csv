@@ -1,0 +1,15 @@
+ImpressionId,ImpressionDateTime,AdvertiserId,IpAddress,Site,Latitude,Longitude,CampaignId,AdType
+dd7c1acf-5274-4d2e-b3c6-8bbb29c51f76,2024-02-03 1:59:42,2,172.225.198.x,www.autotrader.com,39.58,-104.86,1,Banner
+3f17f2d9-5ea2-496c-ac5d-9c637f635db4,2024-02-03 1:59:35,3,68.197.150.64,solitaired.com,41.11,-74.04,2,Banner
+a615a34f-10d2-4690-8127-1d7cf4b975ea,2024-02-03 1:59:32,1,108.46.31.1,io.supercent.linkedcubic,40.79,-73.5,3,Banner
+1760cd3b-773c-493b-8eb2-7d7c824fb896,2024-02-03 1:59:56,1,172.254.139.x,www.psimonmyway.com,40.72,-73.72,4,Banner
+86d63459-eb34-4a76-a6e0-3c452c7fc4bb,2024-02-03 1:59:05,2,72.74.17.4,com.aws.android,42.47,-71.15,5,Banner
+49f931a4-4a14-454f-925a-514294a00939,2024-02-03 1:59:07,4,47.146.114.7,1113013,33.74,-117.02,6,Video
+0bf15bc0-0648-4c6d-9c43-c83f38ff7a61,2024-02-03 1:59:04,,68.161.223.66,com.gamovation.tileclub,40.76,-73.79,4,Banner
+69ac2ea3-a056-4c11-9265-ccac1db6c620,2024-02-03 1:59:58,3,67.190.29.178,kik.android,39.76,-105.02,2,Banner
+035ba8e3-383b-4984-8bad-6b465524c365,2024-02-03 1:58:52,1,173.2.1.x,1515874052,40.72,-73.72,4,Banner
+5fd45500-ecde-4741-a3c0-b917ac4d9d57,2024-02-03 1:59:16,5,73.158.142.5,www.fearlessdining.com,37.63,-122.04,,Video
+68209391-d2dd-4792-a09f-9570df3b6ef8,2024-02-03 1:58:52,2,66.60.194.23,www.xtrhorsepower.com,44.54,-95.11,8,Banner
+bc8c7ea4-b874-4b82-be79-bcfb19b9262c,2024-02-03 1:59:56,4,76.33.74.x,com.samsungtvplus.vix,33.83,-117.9,6,Video
+e4ccbfb8-8f48-4a3f-a605-fb3e97965194,2024-02-03 1:59:38,2,107.119.41.x,rarethief.com,,,1,Banner
+8542ca08-1b32-438c-bb72-7784d3f32032,2024-02-03 1:59:04,5,172.226.18.x,thebigmansworld.com,40.79,-73.97,7,Video
